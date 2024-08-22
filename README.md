@@ -9,6 +9,9 @@
 
 A streamlined, user-friendly launcher designed for managing and connecting to a dedicated 7 Days to Die server. The launcher also supports automatic fetching and installation of server mods to ensure that all clients are up-to-date with the latest server configurations.
 
+## Preview
+![Preview](https://i.imgur.com/zDowCKj.png)
+
 ## Key Features
 
 - **User-Friendly Interface**: Simplifies the process of connecting to your 7 Days to Die server with an intuitive, easy-to-navigate UI.
